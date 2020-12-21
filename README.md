@@ -1,4 +1,4 @@
-# jupyter
+# Jupyter Prácticas
 Jupyter Notebook
 
-Tutoriales de Jupyter Notebook
+Tutoriales depráctica para Jupyter Notebook.
